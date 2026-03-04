@@ -3,8 +3,8 @@
 
 ## Informações Gerais
 Coloque aqui os seus dados
-- Nome: 
-- Matricula:
+- Nome: Sofia Liva  Mendes Faria
+- Matricula: RA 924429
 
 ## Tela de inspeção com navegador
 
