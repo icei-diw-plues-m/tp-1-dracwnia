@@ -8,8 +8,11 @@ Coloque aqui os seus dados
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print da aba Network](images/image1.png)
 
+## Resultado da página index.html
+
+![Print do Site](images/image2.png)
 
 ## Orientações sobre Linguagem MarkDown
 
